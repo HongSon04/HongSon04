@@ -1,14 +1,5 @@
-
-
-# 💫 About Me:
-
-<p align="center" class="block">
-  <a href="https://github.com/HongSon04" target="blank"><img style="border-radius: 10px;" src="https://avatars.githubusercontent.com/u/118839446?v=4" width="200" height="200" alt="ChuBe04 Avatar" /></a>
-</p>
-
+## 💫 About Me:
 <span align="center">
-
-<h1>Hồng Sơn (Chú Bé)</h1>
 
 I'm a Web development intern with basic knowledge of Frontend, including ReactJS, and<br>experience in Backend development using NodeJS and frameworks such as ExpressJS<br>and NestJS. Passionate about learning and applying modern web technologies to<br>create efficient and user-friendly solutions. Short-term goal is to become a Junior<br>FullstackJS in 1 year.
 
